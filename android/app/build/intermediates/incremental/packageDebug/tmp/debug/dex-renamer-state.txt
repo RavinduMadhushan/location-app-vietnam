@@ -1,0 +1,4 @@
+#Sat Dec 07 00:11:42 IST 2019
+base.0=D\:\\React\\location app\\Machine-mobile-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
